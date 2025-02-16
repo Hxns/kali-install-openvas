@@ -1,8 +1,8 @@
 # Instalación de openvas en Kali Linux
 
-Comandos necesarios para instalar la versión gratuita de Greenbone en Kali linux
+Comandos necesarios para instalar la versión gratuita de Greenbone en Kali Linux
 
-### 1. Ejercutar los comandos en el orden mostrado.
+### 1. Ejercutar los siguientes comandos
 
 ```bash 
 sudo apt install openvas
